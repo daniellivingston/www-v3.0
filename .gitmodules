@@ -1,0 +1,3 @@
+[submodule "themes/lvngstn"] 
+  path = themes/lvngstn
+  url = git@github.com:daniellivingston/www-v3.0-theme.git
